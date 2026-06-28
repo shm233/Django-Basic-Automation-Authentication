@@ -2,6 +2,7 @@
 
 # Django-Basic-Automation-Authentication
 
+<p align="center">Download as Zip. Right click on the PowerShell script and select "run in PowerShell"</p>
 
 [![Stars](https://img.shields.io/github/stars/shm233/Django-Basic-Automation-Authentication?style=flat-square)](https://github.com/shm233/Django-Basic-Automation-Authentication/stargazers) [![Forks](https://img.shields.io/github/forks/shm233/Django-Basic-Automation-Authentication?style=flat-square)](https://github.com/shm233/Django-Basic-Automation-Authentication/network) [![Issues](https://img.shields.io/github/issues/shm233/Django-Basic-Automation-Authentication?style=flat-square)](https://github.com/shm233/Django-Basic-Automation-Authentication/issues) [![Watchers](https://img.shields.io/github/watchers/shm233/Django-Basic-Automation-Authentication?style=flat-square)](https://github.com/shm233/Django-Basic-Automation-Authentication/watchers) [![License: UNLICENSED](https://img.shields.io/badge/License-UNLICENSED-blue.svg?style=flat-square)](https://opensource.org/licenses/UNLICENSED)
 
